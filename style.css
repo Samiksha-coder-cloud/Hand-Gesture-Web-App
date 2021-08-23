@@ -1,0 +1,40 @@
+body
+{
+  background-image: linear-gradient(to top, #7028e4 0%, #e5b2ca 100%);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 3px dotted black;
+  width: 350px;
+  height: 300px; 
+}
+#result_hand_name_1 ,#result_hand_name_2  
+{
+  color: black;
+}
+.hand_name
+{
+  font-size: 40px;
+}
+.hand
+{
+  font-size:48px;
+}
+
+label
+{ font-size: 14px;
+  color:blueviolet;
+  padding: 6px; 
+  border-radius: 10px; 
+  background-color:white;
+}
+
+#header {
+  font-size: 30px;
+  font-weight: bold;
+  color:white;
+}
